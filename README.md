@@ -1,5 +1,5 @@
-yo I’m @butter-toaster
-I play games, make art, and as of now do a tiny bit of html
+yo I’m @butter-toaster,
+I play games, make art, and as of now do a tiny bit of html.
 that's pretty much me.
 
 <!---
